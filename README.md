@@ -11,7 +11,7 @@
 - (2022.04 ~ present) Solutions Architect at [Amazon Web Services (AWS)](https://aws.amazon.com).
 
 ### In the past, I was a ...
-- (2017.02 ~ 2022.03) Software Engineer at [Samsung Electronics](https://www.samsung.com).
+- (2017.02 ~ 2022.03) DevOps Engineer at [Samsung Electronics](https://www.samsung.com).
 - (2016.06 ~ 2016.08) Software Engineer Intern at [Samsung Electronics](https://www.samsung.com).
 
 For more details, please refer to [here](https://www.linkedin.com/in/sanghwa-na/).
