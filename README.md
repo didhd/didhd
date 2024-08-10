@@ -15,3 +15,4 @@
 - (2016.06 ~ 2016.08) Software Engineer Intern at [Samsung Electronics](https://www.samsung.com).
 
 For more details, please refer to [here](https://www.linkedin.com/in/sanghwa-na/).
+![](https://hit.yhype.me/github/profile?user_id=17061938)
