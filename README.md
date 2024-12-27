@@ -8,7 +8,7 @@
 -->
 
 ### Currently, I am a ...
-- (2025.01 ~ present) Gen AI Specialist Solutions Architect at [Amazon Web Services (AWS)](https://aws.amazon.com).
+- (2025.01 ~ present) GenAI Specialist Solutions Architect at [Amazon Web Services (AWS)](https://aws.amazon.com).
 - (2022.04 ~ 2024.12) Solutions Architect at [Amazon Web Services (AWS)](https://aws.amazon.com).
 
 ### In the past, I was a ...
