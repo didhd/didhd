@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghwa-na/)](https://www.linkedin.com/in/sanghwa-na/)
 
-I build production-ready AI systems with customers and maintain open-source implementations that developers can use immediately.
+I architect Gen AI solutions with customers and maintain working implementations that developers can deploy immediately. Most of my work is hands-on: designing real architectures, proven patterns, and battle-tested setups for AI Agents, Multi-agent systems, RAG pipelines, and scalable ML deployments on AWS.
 
 I run [Amazon Bedrock Client for Mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac), a native macOS application for streamlined AI model access. I also maintain several AWS sample repositories with complete agent templates and production demos.
 
