@@ -25,5 +25,4 @@ I run [Amazon Bedrock Client for Mac](https://github.com/aws-samples/amazon-bedr
 12 AWS certifications including Machine Learning Specialty, Solutions Architect Professional, and DevOps Engineer Professional | Kubernetes certified (CKA, CKS)
 
 For more details, please refer to [here](https://www.linkedin.com/in/sanghwa-na/).
-
 ![](https://hit.yhype.me/github/profile?user_id=17061938)
