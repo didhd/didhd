@@ -13,7 +13,6 @@ I run the open-source [Amazon Bedrock Client for Mac](https://github.com/aws-sam
 - 💻 Developer Tools: Native macOS client for Bedrock, CLI tools, development workflows for AI applications
 - 🗂️ RAG Architectures: Simple retrieval → agentic RAG → hybrid search → multi-tenant security patterns
 - 🎓 Workshops & Content: [AgentCore Deep Dive](https://catalog.workshops.aws/agentcore-deep-dive), [Strands Agents](https://catalog.workshops.aws/strands), [MCP Productivity Tools](https://catalog.workshops.aws/everyday-productivity-accelerators)
-- 🚀 Real Implementations: clone → configure → deploy
 
 <h2> About Me </h2>
 
