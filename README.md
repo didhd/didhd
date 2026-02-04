@@ -26,7 +26,7 @@ I run the open-source [Amazon Bedrock Client for Mac](https://github.com/aws-sam
 
 **Certifications**
 
-12 AWS certifications including Machine Learning Specialty, Solutions Architect Professional, and DevOps Engineer Professional | Kubernetes certified (CKA, CKS)
+13 AWS certifications including Machine Learning Specialty, Solutions Architect Professional, and DevOps Engineer Professional | Kubernetes certified (CKA, CKS)
 
 **Building what's next in generative AI?** I'd love to chat and share input. Connect on [LinkedIn](https://www.linkedin.com/in/sanghwa-na/)
 ![](https://hit.yhype.me/github/profile?user_id=17061938)
