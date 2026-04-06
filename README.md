@@ -1,4 +1,4 @@
-**# Sanghwa Na
+# Sanghwa Na
 [![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghwa-na/)](https://www.linkedin.com/in/sanghwa-na/)
 
 I'm an engineer focused on making AI systems more useful and reliable in practice.
@@ -48,4 +48,3 @@ people using it.
 
 If you're building with Agents and hitting the messy parts - agent reliability, evaluation,
 production deployment - I'm always happy to compare notes.
-**
