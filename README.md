@@ -1,4 +1,4 @@
-# Sanghwa Na
+**# Sanghwa Na
 [![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghwa-na/)](https://www.linkedin.com/in/sanghwa-na/)
 
 I'm an engineer focused on making AI systems more useful and reliable in practice.
@@ -13,6 +13,13 @@ systems.
 I think a lot about the gap between "demo that works" and "system you'd trust in
 production." Concretely, that means:
 
+- **[Foxl](https://foxl.ai)** - a personal AI agent that sits between Claude Code
+  and Claude Cowork. It has a UI, but it can also touch your filesystem,
+  automate browsers, run terminals, and manage scheduled tasks. I built it because
+  I wanted Claude to be more than a chat window but didn't want to live in the
+  terminal either. Skills and agent harness are defined as markdown (SKILL.md),
+  so teaching the agent a new capability is just writing a file. I use it for
+  ~80-90% of my daily work.
 - **Agent architectures** - multi-agent orchestration, tool use patterns, and the
   surprisingly hard problem of getting agents to know when they don't know something
 - **Developer experience** - I maintain [Amazon Bedrock Client for Mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac),
@@ -39,3 +46,4 @@ people using it.
 
 If you're building with Agents and hitting the messy parts - agent reliability, evaluation,
 production deployment - I'm always happy to compare notes.
+**
