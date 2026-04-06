@@ -20,8 +20,10 @@ production." Concretely, that means:
   terminal either. Skills and agent harness are defined as markdown (SKILL.md),
   so teaching the agent a new capability is just writing a file. I use it for
   ~80-90% of my daily work.
-- **Agent architectures** - multi-agent orchestration, tool use patterns, and the
-  surprisingly hard problem of getting agents to know when they don't know something
+- **Agent architectures** - multi-agent orchestration, tool use patterns, skills and
+  harness design, and the surprisingly hard problem of getting agents to know when
+  they don't know something. A lot of this thinking comes from building Foxl and
+  shipping agent solutions for customers.
 - **Developer experience** - I maintain [Amazon Bedrock Client for Mac](https://github.com/aws-samples/amazon-bedrock-client-for-mac),
   a native macOS app for working with foundation models. Good tools change how people
   think about what's possible.
