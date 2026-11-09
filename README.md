@@ -13,13 +13,6 @@ systems.
 I think a lot about the gap between "demo that works" and "system you'd trust in
 production." Concretely, that means:
 
-- **[Foxl](https://foxl.ai)** - a personal AI agent that sits between Claude Code
-  and Claude Cowork. It has a UI, but it can also touch your filesystem,
-  automate browsers, run terminals, and manage scheduled tasks. I built it because
-  I wanted Claude to be more than a chat window but didn't want to live in the
-  terminal either. Skills and agent harness are defined as markdown (SKILL.md),
-  so teaching the agent a new capability is just writing a file. I use it for
-  ~80-90% of my daily work.
 - **Agent architectures** - multi-agent orchestration, tool use patterns, skills and
   harness design, and the surprisingly hard problem of getting agents to know when
   they don't know something. A lot of this thinking comes from building Foxl and
