@@ -1,7 +1,7 @@
 # Sanghwa Na
 [![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanghwa-na/)](https://www.linkedin.com/in/sanghwa-na/)
 
-I'm an engineer focused on making AI systems more useful and reliable in practice.
+I'm an AI engineer focused on making AI systems more useful and reliable in practice.
 
 Currently I build developer tools and agent infrastructure. Most of my work sits at the
 intersection of large language models and real-world software engineering - figuring out
